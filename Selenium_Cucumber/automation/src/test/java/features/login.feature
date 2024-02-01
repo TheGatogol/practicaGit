@@ -1,4 +1,4 @@
-Feature: Login pRUEBA DE GIT hub
+Feature: Login pRUEBA DE GIT hub en git desktop
 
   @tag1
   Scenario: Intentamos
